@@ -1,5 +1,5 @@
-mame: General Comment Form
-description: Chat about anything you like here.
+mame: "General Comment Form"
+description: "Chat about anything you like here."
 title: "Comment: "
 labels:
   - "coomments"
