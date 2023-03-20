@@ -2,7 +2,7 @@ name: "General Comment Form"
 description: "Chat about anything you like here."
 title: "Comment: "
 labels:
-  - "coomments"
+  - "comments"
 assignees:
   - dgmjr
 body:
