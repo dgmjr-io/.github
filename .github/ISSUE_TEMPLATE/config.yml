@@ -18,3 +18,6 @@ contact_links:
   - name: Security Vulnerability
     url: security_report.yml
     about: Please report security vulnerabilities here.
+  - name: General Comments
+    url: general.yml
+    about: Please comment on anything you like here. Or you can <a href="https://dgmjr.chat">open a discussion</a>.
