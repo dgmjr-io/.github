@@ -1,7 +1,7 @@
 ---
 author: David G. Moore, Jr.
 author_email: david@dgmjr.io
-title: Contributing to JustinWritesCode
+title: Contributing to DGMJR-IO
 license: MIT
 created: 2022-10-21-11:24:06
 lastmod: 2023-01-11T01:50:57.708Z
