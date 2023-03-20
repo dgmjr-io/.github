@@ -1,5 +1,4 @@
 name: Bug Report
-id: bug_report
 description: File a bug report
 title: "Bug: "
 labels:
