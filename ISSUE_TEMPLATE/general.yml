@@ -1,0 +1,30 @@
+mame: General Comment Form
+id: general
+description: Chat about anything you like here.
+title: "Comment: "
+labels:
+  - "coomments"
+assignees:
+  - dgmjr
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Than you for taking the time to write a comment!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: e.g., email@example.com
+    validations:
+      required: true
+  - type: textarea
+    id: whats-up
+    attributes:
+      label: So what's on your mind?
+      description: What's on your mind?
+      placeholder: Tell us what's on your mind!
+      value: "I have a comment!"
+    validations:
+      required: true

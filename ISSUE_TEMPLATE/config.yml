@@ -1,0 +1,20 @@
+blank_issues_enabled: false
+contact_links:
+  - name: DGMJR-IO Discussions
+    url: https://dgjr.chat
+    about: Ask questions and share ideas related to JustinWritesCode projects here
+  - name: GitHub Community Support
+    url: https://github.com/orgs/community/discussions
+    about: Please ask and answer questions here.
+  - name: GitHub Security Bug Bounty
+    url: https://bounty.github.com/
+    about: Please report security vulnerabilities here.
+  - name: Bug Report
+    url: bug_report.yml
+    about: Please report bugs here.
+  - name: Feature Request
+    url: feature_request.yml
+    about: Please request features here.
+  - name: Security Vulnerability
+    url: security_report.yml
+    about: Please report security vulnerabilities here.
