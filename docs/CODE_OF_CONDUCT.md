@@ -1,7 +1,7 @@
 ---
 author: David G. Moore, Jr.
 author_email: david@dgmjr.io
-title: The JustinWriteCode Contributor Covenant Code of Conduct
+title: The DGMJR Contributor Covenant Code of Conduct
 license: MIT
 created: 2022-10-21-11:24:06
 lastmod: 2023-01-11T01:52:21.843Z

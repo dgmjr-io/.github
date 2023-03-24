@@ -1,7 +1,7 @@
 ---
 name: Pull Request Template
 description: A template to follow for pull requests
-title: "[PR] Title"
+title: "PR: Title"
 lastmod: 2023-01-11T02:47:01.004Z
 ---
 <!-- Thanks for taking the time to contribute to the project and open a pull request! -->
