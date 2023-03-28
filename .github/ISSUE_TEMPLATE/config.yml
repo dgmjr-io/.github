@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: DGMJR-IO Discussions
-    url: https://dgjr.chat
+    url: https://dgmjr.chat
     about: Ask questions and share ideas related to JustinWritesCode projects here
   - name: GitHub Community Support
     url: https://github.com/orgs/community/discussions
