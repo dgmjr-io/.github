@@ -4,7 +4,7 @@ author_email: david@dgmjr.io
 title: The DGMJR Contributor Covenant Code of Conduct
 license: MIT
 created: 2022-10-21-11:24:06
-lastmod: 2023-03-28T05:02:07.802Z
+lastmod: 2023-03-28T05:09:16.219Z
 categories:
   - documentation
   - support
@@ -86,7 +86,7 @@ Actions we may take in response to a flag or abuse report include, but are not l
 * Suspension from participating in the forums
 
 ## Contacting GitHub Staff
-If, for any reason, you want to contact DGMJR staff, you can use the [support contact form](support.dgmjr.io).
+If, for any reason, you want to contact DGMJR staff, you can use the [support contact form0(https://support.dgmjr.io).
 
 ***Let's work together to keep GitHub Community a place where people feel safe to participate by being respectful of them and their time.***
 
