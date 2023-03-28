@@ -1,3 +1,15 @@
+# 
+# feature_request.yml
+# 
+#   Created: 2023-03-20-06:23:59
+#   Modified: 2023-03-28-01:00:18
+# 
+#   Author: David G. Moore, Jr. <david@dgmjr.io>
+#   
+#   Copyright © 2022 - 2023 David G. Moore, Jr., All Rights Reserved
+#      License: MIT (https://opensource.org/licenses/MIT)
+# 
+
 name: Feature Request
 description: Suggest an idea for this project
 title: "Feature: "
@@ -21,7 +33,7 @@ body:
           required: true
         - label: "I agree to follow this project's [Code of Conduct](https://Dgmjr.com/CODE_OF_CONDUCT/)."
           required: true
-        - label: "I have read and am following this repository's [Contribution Guidelines](https://Dgmjr.com/CONTRIBUTING/)."
+        - label: "I have read and am following this repository's [Contribution Guidelines](https://contribute.dgmjr.io)."
           required: true
   - type: input
     id: contact

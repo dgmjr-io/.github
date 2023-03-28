@@ -4,7 +4,7 @@ author_email: david@dgmjr.io
 title: JustinWritesCode Security Policy
 license: MIT
 created: 2022-10-21-11:37:52
-lastmod: 2023-01-11T01:50:18.697Z
+lastmod: 2023-03-28T05:07:06.989Z
 categories:
   - documentation
   - security
