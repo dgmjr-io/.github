@@ -59,6 +59,3 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
-
-
-[^1]: This differs significantly from the boilerplate text in the omission of the bullet point *The use of sexualized language or imagery and unwelcome sexual attention or  advances.*  In fact, sexualized language and imagery are **welcome** as long as they're **hot** and **homosexual** in nature.  :wink:
