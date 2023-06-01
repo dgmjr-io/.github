@@ -8,3 +8,9 @@ I'm David, a software engineer and part-time college professor living in Washing
 - 🍿 Fun facts - I **love** the International House of Pancakes' pancakes!
 - 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+### You can also check out my other repos:
+  * [My TypeScript Projects](https://ts.git.dgmjr.io)
+  * [My PowerShell Projects](https://ps.git.dgmjr.io)
+  * [My Reusable GitHub Actions](https://actions.dgmjr.io)
+  * [My Collection of Swagger/OpenAPI docs for various useful services](https://swagger.dgmjr.io)
+  * [My (attempts) at bringing old(er) no-longer-maintained projects up to date](https://modernization.dgmjr.io)
