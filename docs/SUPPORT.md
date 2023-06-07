@@ -9,13 +9,13 @@ title: Support
 description: Ways to get support
 date: 2023-03-20T22:32:37.933Z
 tags:
-  - Dgmjr
+  - DGMJR-IO
   - support
   - documentation
 type: support
 slug: support
 authors:
-  - DGMJR
+  - dgmjr
 lastMod: 2023-03-23T22:38:34.983Z
 ---
 # Support

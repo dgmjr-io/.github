@@ -1,7 +1,7 @@
 ---
-author: David G. Moore, Jr.
-author_email: david@dgmjr.io
-title: The DGMJR Contributor Covenant Code of Conduct
+authors:
+- dgmjr
+title: The DGMJR-IO Contributor Covenant Code of Conduct
 license: MIT
 created: 2022-10-21-11:24:06
 lastmod: 2023-03-28T05:09:40.336Z
@@ -30,7 +30,7 @@ The primary purpose of the GitHub community is to collaborate on software projec
 * Be respectful - Working in a collaborative environment means disagreements may happen. But remember to criticize ideas, not people. Share thoughtful, constructive criticism and be courteous to those you interact with. If you’re unable to engage respectfully, consider taking a step back or using some of our moderation tools to deescalate a tense situation.
 
 * Be empathetic - GitHub is a global community with people from a wide variety of backgrounds and perspectives, many of which may not be your own. Try to put yourself in others’ shoes and understand their feelings before you address them. Do your best to help make GitHub a community where others feel safe to make contributions, participate in discussions, and share different ideas.
- 
+
 ### Contribute in a positive and constructive way.
 
 * Improve the discussion. Help us make this a great place for discussion by always working to improve the discussion in some way, however small. If you are not sure your post adds to the conversation, think over what you want to say and try again later.

@@ -1,6 +1,6 @@
 ---
-author: David G. Moore, Jr.
-author_email: david@dgmjr.io
+authors:
+- dgmjr
 title: Contributing to DGMJR-IO
 license: MIT
 created: 2022-10-21-11:24:06
@@ -12,7 +12,7 @@ categories:
 
 # All contributions, however small are valued
 
-# Contributing to DGMJR projects
+# Contributing to DGMJR-IO projects
 
 We welcome all contributuions--large and small. A big welcome and thank you for considering contributing to DGMJR open source projects! It’s people like you that make it a reality for users in our community.
 
