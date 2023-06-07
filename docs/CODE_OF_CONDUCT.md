@@ -1,4 +1,5 @@
 ---
+
 authors:
 - dgmjr
 title: The DGMJR-IO Contributor Covenant Code of Conduct
@@ -6,16 +7,18 @@ license: MIT
 created: 2022-10-21-11:24:06
 lastmod: 2023-03-28T05:09:40.336Z
 categories:
-  - documentation
-  - support
-  - security
-  - code of conduct
----
+- documentation
+- support
+- security
+- code of conduct
+-----------------
 
 # Pledge [^1]
+
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in GitHub Community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Standards
+
 Treat GitHub Community with respect. We are a shared resource — a place to share skills, knowledge, and interests through ongoing conversation.
 
 The following are not hard and fast rules, merely aids to the human judgment of our community. Use these guidelines to keep this a clean, well-lighted place for civilized public discourse.
@@ -69,12 +72,14 @@ Other conduct which could reasonably be considered inappropriate in a profession
 Violation of Terms of Service. If your GitHub.com account is identified in violation of Terms of Service we will have to close your account.
 
 ## Enforcement
+
 What GitHub Community Participants Can Do
 If you see a problem, report it. Moderators have special authority; they are responsible for this GitHub Community. But so are you. With your help, moderators can be community facilitators, not just janitors or police.
 
 When you see bad behavior, don’t reply. It encourages the bad behavior by acknowledging it, consumes your energy, and wastes everyone’s time. You can report a disruptive user or disruptive content to GitHub. For more information, see "Reporting abuse or spam."
 
 ## Our Responsibilities
+
 There are a variety of actions that we may take in response to inappropriate behavior or content. It usually depends on the exact circumstances of a particular case. We recognize that sometimes people may say or do inappropriate things for any number of reasons. Perhaps they did not realize how their words would be perceived. Or maybe they just let their emotions get the best of them. Of course, sometimes, there are folks who just want to spam or cause trouble.
 
 Each case requires a different approach, and we try to tailor our response to meet the needs of the situation. We'll review each situation on a case-by-case basis. In each case, we will have a diverse team investigate the content and surrounding facts and respond as appropriate, using this Code of Conduct to guide our decision.
@@ -86,6 +91,7 @@ Actions we may take in response to a flag or abuse report include, but are not l
 * Suspension from participating in the forums
 
 ## Contacting GitHub Staff
+
 If, for any reason, you want to contact DGMJR staff, you can use the [support contact form](https://support.dgmjr.io).
 
 ***Let's work together to keep GitHub Community a place where people feel safe to participate by being respectful of them and their time.***

@@ -1,4 +1,5 @@
 ---
+
 authors:
 - dgmjr
 title: Contributing to DGMJR-IO
@@ -6,9 +7,9 @@ license: MIT
 created: 2022-10-21-11:24:06
 lastmod: 2023-03-29T05:33:20.155Z
 categories:
-  - documentation
-  - support
----
+- documentation
+- support
+---------
 
 # All contributions, however small are valued
 
