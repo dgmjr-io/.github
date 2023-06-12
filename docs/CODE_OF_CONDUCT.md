@@ -1,5 +1,4 @@
 ---
-
 authors:
 - dgmjr
 title: The DGMJR-IO Contributor Covenant Code of Conduct
