@@ -1,16 +1,16 @@
 ---
 authors:
   - dgmjr
-title: The DGMJR-IO Contributor Covenant Code of Conduct
-license: MIT
-created: 2022-10-21-11:24:06
-lastmod: 2023-03-28T05:09:40.336Z
 categories:
   - documentation
   - support
   - security
   - code of conduct
------------------
+title: The DGMJR-IO Contributor Covenant Code of Conduct
+license: MIT
+created: 2022-10-21-11:24:06
+lastmod: 2023-03-28T05:09:40.336Z
+---
 
 # Pledge [^1]
 
