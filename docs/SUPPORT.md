@@ -1,5 +1,4 @@
 ---
-
 lastmod: 2023-03-23T16:07:31.031Z
 created: 2023-03-23T16:07:33.165Z
 license: MIT
@@ -17,8 +16,7 @@ type: support
 slug: support
 authors:
 - dgmjr
-lastMod: 2023-03-23T22:38:34.983Z
----------------------------------
+---
 
 # Support
 
