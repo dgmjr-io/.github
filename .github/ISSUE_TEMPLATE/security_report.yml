@@ -9,6 +9,7 @@ assignees:
   - justinwritescode
 body:
   - type: markdown
+    id: thx
     attributes:
       value: |
         Thanks for taking the time to fill out this security vulnerability report!
