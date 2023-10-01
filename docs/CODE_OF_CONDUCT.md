@@ -14,15 +14,16 @@ lastmod: 2023-03-28T05:09:40.336Z
 
 # Pledge [^1]
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in GitHub Community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in the DGMJR-IO projects a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Standards
 
-Treat GitHub Community with respect. We are a shared resource — a place to share skills, knowledge, and interests through ongoing conversation.
+Treat DGMJR-IO contributors with respect. We are a shared resource — a place to share skills, knowledge, and interests through ongoing conversation.
 
 The following are not hard and fast rules, merely aids to the human judgment of our community. Use these guidelines to keep this a clean, well-lighted place for civilized public discourse.
 
-Best Practices for Maintaining a Strong Community
+### Best Practices for Maintaining a Strong Community
+
 The primary purpose of the GitHub community is to collaborate on software projects. We are committed to maintaining a community where users are free to express themselves and challenge one another's ideas, both technical and otherwise. At the same time, it's important that users remain respectful and allow space for others to contribute openly. In order to foster both a safe and productive environment, we encourage our community members to look to these guidelines to inform how they interact on our platform. Below, you’ll find some suggestions for how to have successful interactions as a valued member of the GitHub community.
 
 ### Engage with consideration and respect.
@@ -49,12 +50,13 @@ The primary purpose of the GitHub community is to collaborate on software projec
 
 * Keep it tidy. Make the effort to put things in the right place, so that we can spend more time discussing and less time cleaning up. So:
 
-  ** Don’t start a discussion in the wrong category.
-  ** Don’t cross-post the same thing in multiple discussions.
-  ** Don’t post no-content replies.
-  ** Don't "bump" posts, unless you have new and relevant information to share.
-  ** Don’t divert a discussion by changing it midstream.
-  ** Rather than posting “+1” or “Agreed”, use the upvote button. Rather than taking an existing discussion in a radically different direction, open a new discussion.
+  * Don’t start a discussion in the wrong category.
+  * Don’t cross-post the same thing in multiple discussions.
+  * Don’t post no-content replies.
+  * Don't "bump" posts, unless you have new and relevant information to share.
+  * Don’t divert a discussion by changing it midstream.
+  * Rather than posting “+1” or “Agreed”, use the upvote button.
+  * Rather than taking an existing discussion in a radically different direction, open a new discussion.
 
 ### Be trustworthy.
 
@@ -91,7 +93,7 @@ Actions we may take in response to a flag or abuse report include, but are not l
 
 ## Contacting GitHub Staff
 
-If, for any reason, you want to contact DGMJR staff, you can use the [support contact form](https://support.dgmjr.io).
+If, for any reason, you want to contact DGMJR staff, you can use the [support contact forms](https://issues.dgmjr.io).
 
 ***Let's work together to keep GitHub Community a place where people feel safe to participate by being respectful of them and their time.***
 
