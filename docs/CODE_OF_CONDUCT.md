@@ -1,16 +1,17 @@
 ---
+
 authors:
-  - dgmjr
+- dgmjr
 categories:
-  - documentation
-  - support
-  - security
-  - code of conduct
+- documentation
+- support
+- security
+- code of conduct
 title: The DGMJR-IO Contributor Covenant Code of Conduct
 license: MIT
 created: 2022-10-21-11:24:06.0000+05:00Z
 lastmod: 2023-12-31T18:46:00.0000+05:00Z
----
+----------------------------------------
 
 # Pledge [^1]
 
@@ -63,6 +64,7 @@ The primary purpose of the GitHub community is to collaborate on software projec
 Always be honest. Don’t knowingly share incorrect information or intentionally mislead other GitHub Community participants. If you don’t know the answer to someone’s question but still want to help, you can try helping them research or find resources instead. GitHub staff will also be active in GitHub Community, so if you’re unsure of an answer, it’s likely a moderator will be able to help.
 
 #### What is not Allowed
+
 GitHub's Acceptable Use Policies, which are part of GitHub's Terms of Service, set a baseline for what is not allowed on GitHub. Since GitHub Community is on GitHub.com, these terms and restrictions apply to GitHub Community, including the following restrictions:
 
 - Anyone under the age of 13. If you're a child under the age of 13, you may not have an account on GitHub. GitHub does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your GitHub.com account. We don't want to discourage you from learning to code, but those are the rules. Please see our Terms of Service for information about account termination.
@@ -76,6 +78,7 @@ GitHub's Acceptable Use Policies, which are part of GitHub's Terms of Service, s
 ## Enforcement
 
 #### What DGMJR-IO Contributors Can Do
+
 If you see a problem, report it. Moderators have special authority; they are responsible for this GitHub Community. But so are you. With your help, moderators can be community facilitators, not just janitors or police.
 
 When you see bad behavior, don’t reply. It encourages the bad behavior by acknowledging it, consumes your energy, and wastes everyone’s time. You can report a disruptive user or disruptive content to GitHub. For more information, see "Reporting abuse or spam."
